@@ -16,7 +16,7 @@ This project demonstrates practical skills in building promotional newsletters u
 ## 📬 Live Preview
 The newsletter can be viewed here:
 [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://kasiakwiatek.github.io/e-mail-3/)
-https://kasiakwiatek.github.io/e-mail-3/
+
 
 
 ## 🖼 Graphic Assets
