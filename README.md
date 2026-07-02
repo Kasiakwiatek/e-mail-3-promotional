@@ -12,7 +12,7 @@ The project demonstrates practical skills in building mobile‑friendly newslett
 
 ## 📬 Live Preview
 The newsletter can be viewed here:
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://kasiakwiatek.github.io/e-mail-3/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://kasiakwiatek.github.io/e-mail-3-promotional/)
 
 
 ## 🖼 Graphic Assets
